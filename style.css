@@ -1,11 +1,16 @@
 body, h1, h2, p {
     font-family: "Arial Narrow", sans-serif;
     text-align: center;
-
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 .centerImage {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 10%;
+}
+p {
+    border-bottom: 1px solid black;
 }
